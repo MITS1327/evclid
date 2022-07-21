@@ -1,2 +1,3 @@
 # evclid
-web site ,  desktop adaptive
+web site ,  desktop responsive
+
