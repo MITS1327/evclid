@@ -1,3 +1,6 @@
 # evclid
-web site ,  desktop responsive
+HTML5                                                                                                                                                        Css3
+BEM naming
+only desktop view
+
 
